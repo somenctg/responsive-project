@@ -1,0 +1,39 @@
+
+html{
+    padding:0;
+    margin:0;
+}
+.header container{
+   border:0;
+   margin:0;
+}
+.shoe-card-footer{
+    border:0;
+    background-color: white;
+}
+.shoe-text{
+    color:#363958;
+}
+.shoe-price{
+    color:#FA804C;
+}
+.submit{
+   
+    color:white;
+    background-color: #3948DA;
+    padding: 15px 35px;
+	margin: 0 10px;
+    border:1px solid blue;
+    border-radius:10px;
+    
+}
+
+.shoe-card{
+    border:none;
+}
+.footer-image{
+    width:100px;
+    height:150px;
+    object-fit:cover;
+
+}
